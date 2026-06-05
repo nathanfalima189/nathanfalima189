@@ -4,7 +4,7 @@ Olá, eu sou Nathan Ferreira 👋
 
 💻 Atualmente estudando:
 
- -Python
+- Python
 - Banco de Dados
 - Git e GitHub
 - Análise de Dados
