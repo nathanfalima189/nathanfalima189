@@ -9,26 +9,41 @@ Olá, eu sou Nathan Ferreira 👋
 - Git e GitHub
 - Análise de Dados
 
-🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-📦 Sistema de Estoque
+### 📦 Sistema de Estoque
 Sistema desenvolvido em Python para cadastro e gerenciamento de produtos.
 
-📊 Dashboard de Vendas
+### 📊 Dashboard de Vendas
 Análise de dados utilizando Pandas e geração de gráficos.
 
-🤖 Automação de Relatórios
+### 🤖 Automação de Relatórios
 Leitura automática de planilhas Excel e geração de relatórios.
 
 🛠 Tecnologias
-Python
-SQL
-Git
-GitHub
-Excel
-Pandas
+#Python
+#SQL
+#Git
+#GitHub
+#Excel
+#Pandas
+
 🎯 Objetivo
+
+Meu objetivo é continuar evoluindo como profissional de tecnologia, aprofundando conhecimentos em desenvolvimento de software, automação de processos, análise de dados e soluções digitais que gerem impacto real para os negócios.
+
+
 
 Atualmente sou estagiário na CSN – Companhia Siderúrgica Nacional, atuando na área de Inteligência de Suprimentos.
 
 Trabalho com automação de processos (RPA), suporte a atividades estratégicas da área e utilização do SAP para análise e acompanhamento de operações, contribuindo para ganhos de eficiência e melhoria contínua dos processos.
+
+## 💼 Experiência
+
+**CSN – Companhia Siderúrgica Nacional**  
+Estagiário em Inteligência de Suprimentos
+
+- Desenvolvimento de automações (RPA)
+- Utilização do SAP
+- Análise de processos
+- Suporte à tomada de decisão baseada em dados
