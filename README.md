@@ -29,4 +29,6 @@ Excel
 Pandas
 🎯 Objetivo
 
-Busco minha primeira oportunidade para desenvolver experiência prática em tecnologia, contribuindo com soluções e aprendendo continuamente.
+Atualmente sou estagiário na CSN – Companhia Siderúrgica Nacional, atuando na área de Inteligência de Suprimentos.
+
+Trabalho com automação de processos (RPA), suporte a atividades estratégicas da área e utilização do SAP para análise e acompanhamento de operações, contribuindo para ganhos de eficiência e melhoria contínua dos processos.
