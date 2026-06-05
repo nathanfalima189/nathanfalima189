@@ -38,9 +38,6 @@ Leitura automática de planilhas Excel e geração de relatórios.
 
 Meu objetivo é continuar evoluindo como profissional de tecnologia, aprofundando conhecimentos em desenvolvimento de software, automação de processos, análise de dados e soluções digitais que gerem impacto real para os negócios.
 
-Atualmente sou estagiário na CSN – Companhia Siderúrgica Nacional, atuando na área de Inteligência de Suprimentos.
-
-Trabalho com automação de processos (RPA), suporte a atividades estratégicas da área e utilização do SAP para análise e acompanhamento de operações, contribuindo para ganhos de eficiência e melhoria contínua dos processos.
 
 ## 💼 Experiência
 
