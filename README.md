@@ -1,16 +1,32 @@
-## Hi there 👋
+Olá, eu sou Nathan Ferreira 👋
 
-<!--
-**nathanfalima189/nathanfalima189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de ciência de dados com foco em big data para negócios.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+Banco de Dados
+Git e GitHub
+Análise de Dados
+
+🚀 Projetos em Destaque
+
+📦 Sistema de Estoque
+Sistema desenvolvido em Python para cadastro e gerenciamento de produtos.
+
+📊 Dashboard de Vendas
+Análise de dados utilizando Pandas e geração de gráficos.
+
+🤖 Automação de Relatórios
+Leitura automática de planilhas Excel e geração de relatórios.
+
+🛠 Tecnologias
+Python
+SQL
+Git
+GitHub
+Excel
+Pandas
+🎯 Objetivo
+
+Busco minha primeira oportunidade para desenvolver experiência prática em tecnologia, contribuindo com soluções e aprendendo continuamente.
